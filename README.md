@@ -1,8 +1,8 @@
 # 🛒 Carrinho de Compras - Projeto JavaScript
 
-[![GitHub issues](https://img.shields.io/github/issues/jmgcorreia99/carrinho-de-compras)](https://github.com/jmgcorreia99/carrinho-de-compras/issues)
-[![GitHub stars](https://img.shields.io/github/stars/jmgcorreia99/carrinho-de-compras)](https://github.com/jmgcorreia99/carrinho-de-compras/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/jmgcorreia99/carrinho-de-compras)](https://github.com/jmgcorreia99/carrinho-de-compras/network)
+[![GitHub issues](https://img.shields.io/github/issues/jmgcorreia99/checkout-alura)](https://github.com/jmgcorreia99/checkout-alura/issues)
+[![GitHub stars](https://img.shields.io/github/stars/jmgcorreia99/checkout-alura)](https://github.com/jmgcorreia99/checkout-alura/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/jmgcorreia99/checkout-alura)](https://github.com/jmgcorreia99/checkout-alura/network)
 
 ## Descrição 💬
 
@@ -26,7 +26,7 @@ Este projeto simula um **Carrinho de Compras online**, permitindo adicionar e re
 ### 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/jmgcorreia99/carrinho-de-compras.git
+git clone https://github.com/jmgcorreia99/checkout-alura.git
 ```
 
 ### 2. Acesse a pasta do projeto:
